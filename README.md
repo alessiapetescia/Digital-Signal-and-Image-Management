@@ -1,5 +1,5 @@
 <h1> Overview</h1>
-In this repository, my exam project of Digital Signal and Image Management is reported. In particular, three main tasks are addressed:
+In this repository, the project for tthe Digital Signal and Image Management exam is reported. In particular, three main tasks are addressed:
 <p></p>
 <ul>
 <li><b>Speaker recognition:</b> several featuters are extracted by wav files of 5s of duration, cointaining variable sentences and background noise. 
